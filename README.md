@@ -142,9 +142,19 @@ Recuperar usuario, empresa, etc. de los _tweets_.
 
 ## Conclusiones
 
-En base al diccionario de palabras, se puede categorizar el grado de similitud de los tweets con los diferentes 17 Objetivosa de Desarollo Sostenible
+En base al diccionario de palabras, se puede categorizar el grado de similitud de los tweets con los diferentes 17 Objetivosa de Desarollo Sostenible. Hay palabras que directamente se asocian con más de 1 ODS, porque todo al final está relacionado.
 
-El 40.87% de los tweets no están relacionados con ningún ODS y la cantidad de ODS por tweet es muy similar entre los 2 y 10 ODS.
+El 40.87% de los tweets no están relacionados con ningún ODS, debido a la baja calidad de la información contenida en el propio tweet. 
+La gráfica de la frecuencia, nos indica que la cantidad de ODS por tweet es muy similar entre los 2 y 10 ODS.
+
+El umbral utilizado para determinar que un texto pertenece a un ODS concreto, lo establecimos en más de un 70% similitud. Se podria subir un poco más el umbral para acertar mejor con dicha asignación, ya que, probamos con otros textos que aparentemente no tenían nada que ver y la sonda realizó la asignación a los ODS.
+
+
+## Siguientes pasos
+
+
+
+
 
 ## Referencias
 
